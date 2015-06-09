@@ -21,9 +21,12 @@ public class CustomPagerAdapter extends PagerAdapter {
             R.drawable.img01,
             R.drawable.img02,
             R.drawable.img03,
+            R.drawable.img04,
             R.drawable.img01,
             R.drawable.img02,
-            R.drawable.img03
+            R.drawable.img03,
+            R.drawable.img04
+
     };
 
     public CustomPagerAdapter(Context context) {
