@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavDrawerVP</string>
+    <string name="hello_world">NavDrawerVP</string>
+    <string name="action_settings">NavDrawerVP</string>
+    <string name="hello_blank_fragment">NavDrawerVP</string>
+    <string name="title_activity_my_tab">NavDrawerVP</string>
+    <string name="title_activity_navigation_drawer">NavDrawerVP</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="planets_array">
+        <item>Fragment A</item>
+        <item>Fragment B</item>
+        <item>Fragment C</item>
+    </string-array>
+
+    <string name="title_activity_my_view_pager">NavDrawerVP</string>
+    <string name="title_activity_button">ButtonActivity</string>
+
+</resources>
