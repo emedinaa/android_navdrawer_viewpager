@@ -18,8 +18,12 @@ public class CustomPagerAdapter extends PagerAdapter {
     Context mContext;
     LayoutInflater mLayoutInflater;
     private  int[] mResources = {
-            R.drawable.ic_launcher,
-            R.drawable.ic_launcher
+            R.drawable.img01,
+            R.drawable.img02,
+            R.drawable.img03,
+            R.drawable.img01,
+            R.drawable.img02,
+            R.drawable.img03
     };
 
     public CustomPagerAdapter(Context context) {
